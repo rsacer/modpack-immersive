@@ -19,3 +19,6 @@ shaderpacks/
 config/skinrestorer/
 config/jei/world/
 .impeccable/
+# Configs client-side por máquina — cada jogador ajusta a sua
+config/embeddium-options.json
+config/oculus.properties

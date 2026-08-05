@@ -237,10 +237,6 @@ file = "config/embeddium-mixins.properties"
 hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
-file = "config/embeddium-options.json"
-hash = "6dda53f17e696c7eb280af60f84b0e65067dfb77721130f07cbbeca172ee9dac"
-
-[[files]]
 file = "config/engineersdecor-common.toml"
 hash = "b6dc6c4d205efd757b004c5d6e98a75121423aa5d8ed3b1480c19960c5ffd987"
 
@@ -691,10 +687,6 @@ hash = "d47de20a87c4c89bfe1caee87a1d81bcadac60142b934bd4af1c5715aba4c0b6"
 [[files]]
 file = "config/notenoughcrashes.json"
 hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
-
-[[files]]
-file = "config/oculus.properties"
-hash = "04bdc2a26380d2c2fbeda341be2f0d9cd06ab961b9efb441364f9a3f5ac9f739"
 
 [[files]]
 file = "config/packetfixer.properties"
