@@ -37,7 +37,7 @@
 
 [blocks]
 	#The proximity which constitutes near a heat or cool source
-	near_heat_cool_proximity = 8
+	near_heat_cool_proximity = 4
 
 [immersion]
 	#Amount to change the temperature by when on fire.
