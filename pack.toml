@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "Sacer"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7440f7c7a19bb6ad80dd1c34210110445faf3ef895fc9dbca79233f9e54e5436"
+
+[versions]
+forge = "47.4.22"
+minecraft = "1.20.1"

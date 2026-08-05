@@ -1,0 +1,13 @@
+name = "Engineer's Decor Re:Vived"
+filename = "engineersdecor-1.3.32.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hTzwY5Z7/versions/wQrmLVm1/engineersdecor-1.3.32.jar"
+hash-format = "sha512"
+hash = "f565b79d2c792a26468151aefb4fe0681dc49464b6b7b4616720763882a78bf5f9f1020e9ce3ce596e21615f2a414736e1d311d57f135658927af61fd88cd680"
+
+[update]
+[update.modrinth]
+mod-id = "hTzwY5Z7"
+version = "wQrmLVm1"

@@ -1,0 +1,12 @@
+# Caches e estado local — não versionar
+.mixin.out/
+cache/
+crash-reports/
+logs/
+saves/
+journeymap/
+modernfix/
+server-resource-packs/
+usercache.json
+usernamecache.json
+options.txt.bak

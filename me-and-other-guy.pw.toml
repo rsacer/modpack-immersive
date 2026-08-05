@@ -1,0 +1,13 @@
+name = "me and other guy"
+filename = "cool thing for me and other guy-1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e80b91b557890b6f7ba006b9efee7fa5af9b494"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5063634
+project-id = 967657

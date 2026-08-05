@@ -1,0 +1,13 @@
+name = "Immersive Petroleum"
+filename = "ImmersivePetroleum-1.20.1-4.3.1-36b.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOw5TN6u/versions/iOSlao7R/ImmersivePetroleum-1.20.1-4.3.1-36b.jar"
+hash-format = "sha512"
+hash = "36918f2371ac4e2b64e408caf997c08eb3407bffec864266adddcd00ff3dffcc4e75b68783e1cc7fd9eb3a7bd570ad34c1b2dede5f907efc5aeb1bad99775149"
+
+[update]
+[update.modrinth]
+mod-id = "MOw5TN6u"
+version = "iOSlao7R"
