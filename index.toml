@@ -1356,8 +1356,9 @@ hash = "a291a8d50f30843e49d92db1cde7734327e809b52d24183eecff8c165eed82a6"
 metafile = true
 
 [[files]]
-file = "mods/smoothchunk-1.20.1-4.1.jar"
-hash = "0ee48f7bf78070a7cb5858492faa6fe7d58443acbd97a92547bd664ee710e5c1"
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "e80b940cd9a3aa703d0462101e4a8f0840f69d969a202aaa1294816fc6bc64e7"
+metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"

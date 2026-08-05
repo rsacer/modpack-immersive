@@ -80,8 +80,14 @@ Aponta divergências entre este pacote e `../Modpack/mods/`.
 | `mods/*.jar` | Os 2 mods sem fonte automática, embutidos |
 | `config/` | Configurações compartilhadas do pack |
 
-### Mods embutidos
+### Mod embutido
 
-`smoothchunk` e `morevillagers` não estão publicados no Modrinth nem
-resolvem por slug no CurseForge, então vão como jar dentro do repositório.
-Ao atualizá-los, troque o arquivo e rode `packwiz refresh`.
+`morevillagers` não resolve por slug automático, então vai como jar dentro
+do repositório — a licença dele é MIT, que permite redistribuição. Ao
+atualizá-lo, troque o arquivo e rode `packwiz refresh`.
+
+> **Antes de embutir qualquer jar,** confira a licença do mod:
+> `unzip -p <arquivo>.jar META-INF/mods.toml | grep license`.
+> Mods marcados como `ARR` (*All Rights Reserved*) não podem ser
+> redistribuídos — referencie-os pela fonte oficial com
+> `packwiz curseforge add`.
