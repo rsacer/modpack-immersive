@@ -897,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -908,6 +908,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "8851ef68c7776585e1bfabb8f95b1f5a2ababb7264a679a9bf562b7ac0d137ec"
 metafile = true
 
 [[files]]
@@ -928,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
@@ -1061,6 +1071,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "dbc04cf71baa724fea03c005d6d1513605aabd2089a0d167bbfe7d082f8da009"
+metafile = true
+
+[[files]]
 file = "mods/engineers-decor-revived.pw.toml"
 hash = "62edcf10080ef2b9254a52b73af8caa6aaa7a25f0cdc2ae0344b5532d2f0cb9f"
 metafile = true
@@ -1073,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "8d11358dfd1f3591ee0ce8728d6a3234e1edef5db39c52fe68264ecf7684968d"
 metafile = true
 
 [[files]]
@@ -1108,6 +1128,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
@@ -1151,6 +1176,11 @@ hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "f4216fe5a1aa2c7fa7d9ba03425096372f1b227892c2a78447d190fc22156dc0"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
@@ -1173,6 +1203,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "d182a82c1f048fc78ca7621c7555da5737d028d46f50e413059ca1c2b8a2e8c2"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "2e88de6ccb041493cc6fa75ce102892ddb88529d5c380ba288c7b5f928a4f998"
 metafile = true
 
 [[files]]
@@ -1261,6 +1296,11 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "8c3f5e5391a8135db3ad69f67a81f49525c0e8f0023350172d1b203bebb92858"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
 metafile = true
@@ -1295,6 +1335,11 @@ hash = "4cd211200d17b109bb15f88c7b0c6ba29d9c0af6d2feb76fc7fe4eabff2e4ffe"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "1c3d52224f1f174fbcf2c308a70e3c34a736694b626992891404db32cbd69c7e"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "1588f074af0ca7a5145fd676faf3e14381bb96d1383a3dfbaac7398b1dc6e2fd"
 metafile = true
@@ -1312,6 +1357,21 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "4ab869d8784f4ac318b5c92fa3d9e65f997352b8b57f34b409ca6f171637f0fe"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
@@ -1372,6 +1432,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "76cc84aeda8d3a4f6144f0c4d187d51bfba88eef2c18d92a0d9326ab27075b05"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
 metafile = true
 
 [[files]]

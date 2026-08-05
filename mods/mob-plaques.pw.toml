@@ -1,0 +1,13 @@
+name = "Mob Plaques"
+filename = "MobPlaques-v8.0.1-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/UQWgKqWP/MobPlaques-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "2434f71a114905ccf9ad9c1f186899427bb1ebfa5edcf6dab93f19d8cf174d7f0f1d261d1fd282375801308005f300b9d2f423d001b71fdc57894a897576d97c"
+
+[update]
+[update.modrinth]
+mod-id = "3b1CFIR5"
+version = "UQWgKqWP"
