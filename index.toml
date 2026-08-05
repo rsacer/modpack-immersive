@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".impeccable/hook.cache.json"
-hash = "6906ed3cb01a1d3a5a5be8904af956966ace2d5b9d979b8066dd7f5ed75f165a"
+file = "README.md"
+hash = "946e7b429fe9f6c28a1f570dc966c8fc77c93b999ec23b4ab10ba05d2f91960c"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -227,10 +227,6 @@ hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 [[files]]
 file = "config/dynamictrees-common.toml"
 hash = "1270af8cfdadb7cdda85993d82b28040edcd7897398b4f374cc3cd78321ef42f"
-
-[[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "ca80fc67619d4d9434882c6ae31cffdc9171dd42cb969b8db567cf2dd0f3d9e3"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -565,10 +561,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "34f3f63f7779ba24df195f323a476687c4914a5b50ba3a7b990625b3b4379284"
 
 [[files]]
-file = "config/jei/world/local/New World/lookupHistory.ini"
-hash = "b69556a59f001109ae5db49bbdb475792276a9311a1a5e64c85c14c5bb9a2ea9"
-
-[[files]]
 file = "config/leaky.json"
 hash = "ad988e8c437867dc1cfad16ca0b37484bca8abecf4fdacc69f6d398504ab1174"
 
@@ -698,7 +690,7 @@ hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "c4e14e96a10afba5a576add36f8c60cb192e9ce0c270d292cdf09e7d24847b18"
+hash = "04bdc2a26380d2c2fbeda341be2f0d9cd06ab961b9efb441364f9a3f5ac9f739"
 
 [[files]]
 file = "config/packetfixer.properties"
@@ -755,14 +747,6 @@ hash = "171978dc02adeea01613dd6d34648aafdcfc1e1118ae62ce2f595332c70c9913"
 [[files]]
 file = "config/simpleclouds-common.toml"
 hash = "6a83cb501f00963dbe367413c783075a04617fe2dc31c1ba14ab82a0f57d82b6"
-
-[[files]]
-file = "config/skinrestorer/config.json"
-hash = "f534c528527dec2b5d13f9817b97179ba4107bec810d2ed4c605876a37b8b79f"
-
-[[files]]
-file = "config/skinrestorer/mojang_profile_cache.json"
-hash = "88d8e8decd15f67a29dee710be99ab7678403c4cc361c807f3f277129cd57f7c"
 
 [[files]]
 file = "config/smallships-client.toml"
@@ -1469,3 +1453,7 @@ metafile = true
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
 metafile = true
+
+[[files]]
+file = "scripts/auditar.py"
+hash = "d02ea992227d231f37ce0173e2ae6e42853d7ea30e0103578de6c9a2c5376b14"

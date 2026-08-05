@@ -10,3 +10,12 @@ server-resource-packs/
 usercache.json
 usernamecache.json
 options.txt.bak
+
+# Estado/identificação da máquina local — nunca distribuir
+config/embeddium-fingerprint.json
+config/jei/*-bookmarks.ini
+config/journeymap/
+shaderpacks/
+config/skinrestorer/
+config/jei/world/
+.impeccable/
