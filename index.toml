@@ -881,6 +881,11 @@ hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
 metafile = true
@@ -893,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "50ef20cead6c51577f6698e6d2e63cdb11fb460d08a56517bdd99520a756a28a"
 metafile = true
 
 [[files]]
@@ -941,8 +951,18 @@ hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction-forge.pw.toml"
+hash = "87260d15b05d7cba793c9ddbebae06dc22e042fe747120db9b5b8f441d875524"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-api.pw.toml"
+hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
@@ -963,6 +983,11 @@ metafile = true
 [[files]]
 file = "mods/client-crafting.pw.toml"
 hash = "d1bc88420cb023524aa2882dbe54be724d144729e82183aa3b892756b9599eae"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -1048,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "745309ed9f00d95a8f01170e06e374bc2c4597f9e355434b21ed569b1339b646"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
 metafile = true
 
 [[files]]
@@ -1142,7 +1172,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
 
 [[files]]
