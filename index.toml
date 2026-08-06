@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".impeccable/hook.cache.json"
-hash = "6906ed3cb01a1d3a5a5be8904af956966ace2d5b9d979b8066dd7f5ed75f165a"
-
-[[files]]
-file = "README.md"
-hash = "8ea38bcc8a5fddbb44bd7d1114cc316b349039f38c0dfbf1405b7a606198d8e5"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -853,11 +845,6 @@ file = "config/whitenoise-client.toml"
 hash = "d31db13ba0f951e3b157f967b07c09310ae95ccf08b06dedf088629ead521d58"
 
 [[files]]
-file = "me-and-other-guy.pw.toml"
-hash = "ca2ca971abce565d423ba1be8aff9b63774cca07d94e24f50b8580338f11d3a5"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
 metafile = true
@@ -1535,7 +1522,3 @@ metafile = true
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
 metafile = true
-
-[[files]]
-file = "scripts/auditar.py"
-hash = "d02ea992227d231f37ce0173e2ae6e42853d7ea30e0103578de6c9a2c5376b14"

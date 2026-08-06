@@ -22,3 +22,4 @@ config/jei/world/
 # Configs client-side por máquina — cada jogador ajusta a sua
 config/embeddium-options.json
 config/oculus.properties
+.github/
