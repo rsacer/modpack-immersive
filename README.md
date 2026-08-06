@@ -1,7 +1,5 @@
 # Modpack — 1.20.1 / Forge 47.4.22 / Java 17
 
-136 mods. Aqui ficam só os metadados; os jars são baixados na instalação.
-
 ## Instalar
 
 Na pasta da instância (onde ficam `mods/` e `config/`):
@@ -16,9 +14,6 @@ cd /d "%~dp0"
 java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/rsacer/modpack-immersive/main/pack.toml
 pause
 ```
-
-No Prism Launcher, em vez do `.bat`, cole a linha do `java -jar` em
-Settings → Custom commands → Pre-launch command. Aí atualiza sozinho.
 
 ## Atualizar
 
