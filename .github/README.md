@@ -18,14 +18,3 @@ pause
 ## Atualizar
 
 Rode o `atualizar.bat` de novo. Baixa só o que mudou.
-
-## Mantenedor
-
-```bash
-packwiz modrinth add <slug>        # ou: packwiz curseforge add / remove / update --all
-python3 scripts/auditar.py         # confere se bate com ../Modpack/mods/
-packwiz refresh && git add -A && git commit -m "..." && git push
-```
-
-Cuidado com `-y` no add: ele aceita dependências opcionais sozinho e já
-trouxe mod indesejado pro pack.
