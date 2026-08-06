@@ -955,11 +955,6 @@ hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
 metafile = true
 
 [[files]]
-file = "mods/chest-transport-reloaded.pw.toml"
-hash = "ba240558af214a68d0dac248eda5078fe024681cf626b8a368a76290264f3057"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
 metafile = true
