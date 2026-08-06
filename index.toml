@@ -1414,6 +1414,11 @@ hash = "cc71ab4296fffdfca0a373adba4c7721ccad228f305fda8566507063de65e40e"
 metafile = true
 
 [[files]]
+file = "mods/placeable-items.pw.toml"
+hash = "c31677ada2358525fd5b1f8cbff37fc3821684ca6b6d021eb8914fe0ff138af4"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true

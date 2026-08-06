@@ -1,0 +1,13 @@
+name = "Placeable Items"
+filename = "placeableitems-4.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49fcb22bd4020282f7970585a6a044254bec17bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7548387
+project-id = 227951
