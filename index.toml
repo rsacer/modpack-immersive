@@ -98,7 +98,7 @@ hash = "7d7e35202be844efd2180db1f6d799938218a750d30a98fe00b062aa142302d0"
 
 [[files]]
 file = "config/canary.properties"
-hash = "a37eb7f218ab61f3277a103a85c5bd14ff0abe0dff94e17883bcbb5ea28a3855"
+hash = "a216ed994a57751c5ee7361e6de9345b54d41173c4c2d26d2b7b7191cca39a46"
 
 [[files]]
 file = "config/cataclysm-client.toml"
