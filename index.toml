@@ -1025,8 +1025,18 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crafting-station.pw.toml"
+hash = "17aa2978fec33ca4e929d57fad338fb90c91a155ebf3b97c8bf67fad93c6b9b0"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "71b6267e2c7f91e6dae89aaea6fefdb36e8fcc15db9ee180d10b5d706d4a657b"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d584896433cab9fdba6034182ce0f8376cfd5eb1255fa98ed47e535b94f7674b"
 metafile = true
 
 [[files]]
@@ -1112,6 +1122,11 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
 metafile = true
 
 [[files]]
@@ -1235,6 +1250,11 @@ hash = "d182a82c1f048fc78ca7621c7555da5737d028d46f50e413059ca1c2b8a2e8c2"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "d306f91dca023d9dfa038b5be3c443e41f12c8abce0f932a56aecde14ae4d4c6"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "2e88de6ccb041493cc6fa75ce102892ddb88529d5c380ba288c7b5f928a4f998"
 metafile = true
@@ -1257,6 +1277,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "5db2016d736a9135a03f63190d643a61a0285d96e6105ae8e72a6d94baee90d6"
+metafile = true
+
+[[files]]
+file = "mods/justflax.pw.toml"
+hash = "ab6fdd2de77ffbbf3feb11d887fb8a807439526277ebabc52fcd15255044699e"
 metafile = true
 
 [[files]]
@@ -1541,6 +1566,21 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "4d18e1f93525f313ccba193e0600373f4c117616fda26dcb33bf3361d106dca0"
+metafile = true
+
+[[files]]
+file = "mods/undead-nights.pw.toml"
+hash = "4013df159dc3575265a58b47f8a1ef15fd2684577e027dc548d5422ed4d0072e"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]

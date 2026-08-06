@@ -1,0 +1,13 @@
+name = "Just Flax"
+filename = "justflax-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pbErk7M4/versions/Po4edwEE/justflax-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "4d8536d3f7e200a14f728314cf93ebd2a6c2e01bf3effcf2c0280af287a9a9ac305f41176e5ba7bff66b7c7461652c2acd8edf31fb34473b6721e2ee8a35c06f"
+
+[update]
+[update.modrinth]
+mod-id = "pbErk7M4"
+version = "Po4edwEE"
