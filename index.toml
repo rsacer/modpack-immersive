@@ -875,6 +875,11 @@ hash = "54e171ca3f1f39eba38186a9a5ce6901eb12be05341d76956adff63805d79225"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "1ef6a334d659a6c52db931faa93f9519aadd7b41d6277eff9a367e1846ec0099"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -1342,6 +1347,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "22ffca942573f1c39cc6c495122a31706a12eeb655c013c6c017aa1306ccaf7b"
 metafile = true
 
 [[files]]
