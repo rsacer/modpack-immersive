@@ -1025,11 +1025,6 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
-file = "mods/crafting-station.pw.toml"
-hash = "17aa2978fec33ca4e929d57fad338fb90c91a155ebf3b97c8bf67fad93c6b9b0"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "71b6267e2c7f91e6dae89aaea6fefdb36e8fcc15db9ee180d10b5d706d4a657b"
 metafile = true
